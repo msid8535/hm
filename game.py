@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 25 15:19:25 2018
-
-@author: zou
-"""
 import pygame, random
 import numpy as np
 
