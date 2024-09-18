@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 16 15:22:20 2018
-
-@author: zou
-
-modified by: marium haider
-
-Last modification on: Thurs May 19 15:02:43 2022
-"""
 import pygame
 import sqlite3
 import time
